@@ -1,5 +1,7 @@
-<!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# React + Vite project
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
-<!-- END:nextjs-agent-rules -->
+- React 19 with TypeScript
+- Vite for dev server and builds
+- Tailwind CSS v4 for styling (no inline styles)
+- Framer Motion for animations
+- Reusable components in `/components`
