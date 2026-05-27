@@ -4,7 +4,7 @@ A pixel-perfect, fully responsive frontend implementation of the
 N7 Banking design built with React.js, TypeScript, and Tailwind CSS.
 
 ## Live Demo
-[ADD VERCEL LINK]
+https://n7-banking-webpage.vercel.app/
 
 ## Tech Stack
 - React.js 18 + Vite
